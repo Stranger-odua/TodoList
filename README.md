@@ -1,2 +1,2 @@
-Todo Application
+Training create Todo Application
 -----
